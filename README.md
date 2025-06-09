@@ -1,2 +1,3 @@
 # vue_studentManager
 学生成绩管理系统
+使用vue相关完成的一个学生管理前端界面
